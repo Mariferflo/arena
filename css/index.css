@@ -217,6 +217,8 @@ font-family: 'Playfair', serif;
     font-size: 40px;
     text-align: center;
     font-weight: bold;
+    margin-right: 5%;
+    margin-left: 5%;
 }
 .sub{
  font-family: 'Playfair', serif;
@@ -235,6 +237,8 @@ font-family: 'Playfair', serif;
     font-family: 'Playfair', serif;
     font-size: 22px;
     text-align: justify;
+    margin-right: 5%;
+    margin-left: 5%;
 }
 .icon{
     width: 250px;
